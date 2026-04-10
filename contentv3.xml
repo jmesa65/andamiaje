@@ -161,7 +161,7 @@ text through the text editing buttons associated with the field."></unicode>
 &lt;blockquote&gt;
 &lt;blockquote class=&quot;exe-quote-cite styled-qc&quot;&gt;
 &lt;p&gt;La evaluación formadora tiene como objetivo que el aprendiz se pueda autorregular metacognitivamente, esto es, que pueda tomar conciencia de la tarea que tiene que hacer, de las estrategias que aplica para llevarla a cabo o que podría aplicar, y de la calidad de sus decisiones.&lt;/p&gt;
-&lt;cite&gt;Sanmartí, Neus. 2020. Evaluar y aprender: un único proceso (p. 36). Octaedro. &lt;/cite&gt;&lt;/blockquote&gt;
+&lt;cite&gt;Sanmartí, Neus. (2020). Evaluar y aprender: un único proceso. Octaedro, p. 36&lt;/cite&gt;&lt;/blockquote&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;/blockquote&gt;"></unicode>
           <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -183,7 +183,7 @@ text through the text editing buttons associated with the field."></unicode>
                <instance class="exe.engine.field.TextField">
                 <dictionary>
                  <string role="key" value="_id"></string>
-                 <int value="276694"></int>
+                 <int value="276991"></int>
                  <string role="key" value="_idevice"></string>
                  <none></none>
                  <string role="key" value="_instruc"></string>
@@ -197,7 +197,7 @@ text through the text editing buttons associated with the field."></unicode>
                 </dictionary>
                </instance>
                <string role="key" value="_id"></string>
-               <unicode value="1_85.122"></unicode>
+               <unicode value="1_85.136"></unicode>
                <string role="key" value="_imageResource"></string>
                <instance class="exe.engine.resource.Resource" reference="5">
                 <dictionary>
@@ -208,7 +208,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="_storageName"></string>
                  <string value="UN_REA_PARA_DISENAR_REAs_comp.png"></string>
                  <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\UN_REA_PARA_DISENAR_REAs_comp.png"></string>
+                 <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\UN_REA_PARA_DISENAR_REAs_comp.png"></string>
                  <string role="key" value="checksum"></string>
                  <string value="7b13d716d92de850ca1d3b94ee0fec93"></string>
                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -235,7 +235,7 @@ text through the text editing buttons associated with the field."></unicode>
                <instance class="exe.engine.field.TextField">
                 <dictionary>
                  <string role="key" value="_id"></string>
-                 <int value="276695"></int>
+                 <int value="276992"></int>
                  <string role="key" value="_idevice"></string>
                  <none></none>
                  <string role="key" value="_instruc"></string>
@@ -249,7 +249,7 @@ text through the text editing buttons associated with the field."></unicode>
                 </dictionary>
                </instance>
                <string role="key" value="_id"></string>
-               <unicode value="1_85.123"></unicode>
+               <unicode value="1_85.137"></unicode>
                <string role="key" value="_imageResource"></string>
                <instance class="exe.engine.resource.Resource" reference="6">
                 <dictionary>
@@ -260,7 +260,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="_storageName"></string>
                  <string value="UN_REA_PARA_DISENAR_REAs_comp.png"></string>
                  <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\UN_REA_PARA_DISENAR_REAs_comp.png"></string>
+                 <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\UN_REA_PARA_DISENAR_REAs_comp.png"></string>
                  <string role="key" value="checksum"></string>
                  <string value="7b13d716d92de850ca1d3b94ee0fec93"></string>
                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -289,7 +289,7 @@ text through the text editing buttons associated with the field."></unicode>
           <string role="key" value="intlinks_to_anchors"></string>
           <dictionary></dictionary>
           <string role="key" value="nextImageId"></string>
-          <int value="124"></int>
+          <int value="138"></int>
           <string role="key" value="parentNode"></string>
           <reference key="4"></reference>
          </dictionary>
@@ -428,7 +428,7 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-udlContent exe-udlContent-engagement&quot;&gt;&lt;section class=&quot;exe-udlContent-block&quot;&gt;&lt;div class=&quot;exe-udlContent-content&quot;&gt;&lt;div class=&quot;exe-udlContent-content-main&quot;&gt;&lt;p&gt;Como docentes experimentados, diseñáis continuamente &lt;a href=&quot;https://educaptic.wordpress.com/2023/03/26/situacion-de-aprendizaje/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;situaciones de aprendizaje&lt;/a&gt; para vuestro alumnado: secuencias de actividades, proyectos ABP, tareas complejas, … A lo largo de vuestra trayectoria profesional, habéis desarrollado un conocimiento didáctico valioso, muchas veces implícito, sobre qué funciona en el aula, cómo secuenciar contenidos, cuándo proporcionar apoyos y cómo evaluar procesos complejos. Sin embargo, no siempre resulta sencillo &lt;strong&gt;sistematizar y explicitar&lt;/strong&gt; ese conocimiento bajo un marco coherente que integre los elementos que la &lt;a href=&quot;https://elpais.com/educacion/2025-11-24/la-politica-educativa-y-el-desprecio-por-la-evidencia.html#?prm=copy_link&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;investigación educativa&lt;/a&gt;&amp;nbsp;(&lt;a href=&quot;https://docs.google.com/document/d/1sxs2F1_cRVuHdvnVXmYiMY6_EhjMLCzWcrkp7-8e1Ok/edit?tab=t.0&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;manifiesto&lt;/a&gt;) ha identificado como &lt;strong&gt;esenciales para el aprendizaje&lt;/strong&gt; profundo: contextualización, andamiaje metacognitivo, evaluación formadora, criterios explícitos, trabajo con modelos y, más recientemente, integración ética de la inteligencia artificial generativa como asistente en el diseño didáctico.&lt;/p&gt;
+              <unicode content="true" value="&lt;div class=&quot;exe-udlContent exe-udlContent-engagement&quot;&gt;&lt;section class=&quot;exe-udlContent-block&quot;&gt;&lt;div class=&quot;exe-udlContent-content&quot;&gt;&lt;div class=&quot;exe-udlContent-content-main&quot;&gt;&lt;p&gt;Como docentes experimentados, diseñáis continuamente &lt;a href=&quot;https://educaptic.wordpress.com/2023/03/26/situacion-de-aprendizaje/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;situaciones de aprendizaje&lt;/a&gt; para vuestro alumnado: secuencias de actividades, proyectos ABP, tareas complejas, … A lo largo de vuestra trayectoria profesional, habéis desarrollado un conocimiento didáctico valioso, muchas veces &lt;span style=&quot;background-color: #ffff00;&quot;&gt;implícito, sobre qué funciona en el aula, cómo secuenciar contenidos, cuándo proporcionar apoyos y cómo evaluar&lt;/span&gt; procesos complejos. Sin embargo, no siempre resulta sencillo &lt;strong&gt;sistematizar y explicitar&lt;/strong&gt; ese conocimiento bajo un marco coherente que integre los elementos que la &lt;a href=&quot;https://elpais.com/educacion/2025-11-24/la-politica-educativa-y-el-desprecio-por-la-evidencia.html#?prm=copy_link&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;investigación educativa&lt;/a&gt;&amp;nbsp;(&lt;a href=&quot;https://docs.google.com/document/d/1sxs2F1_cRVuHdvnVXmYiMY6_EhjMLCzWcrkp7-8e1Ok/edit?tab=t.0&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;manifiesto&lt;/a&gt;) ha identificado como &lt;strong&gt;esenciales para el aprendizaje&lt;/strong&gt; profundo: contextualización, andamiaje metacognitivo, evaluación formadora, criterios explícitos, trabajo con modelos y, más recientemente, integración ética de la inteligencia artificial generativa como asistente en el diseño didáctico.&lt;/p&gt;
 &lt;p&gt;Estas dos sesiones formativas tienen una peculiaridad: &lt;strong&gt;son en sí mismas un REA que muestra cómo diseñar REAs&lt;/strong&gt;. Esta dimensión &lt;strong&gt;meta-didáctica&lt;/strong&gt;&amp;nbsp;es pedagógicamente intencionada: vais a experimentar como estudiantes la misma estructura, las mismas fases, los mismos andamiajes y las mismas estrategias de evaluación formadora que, luego, podréis diseñar para vuestro alumnado.&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;En concreto, estas 6 horas presenciales estarán estructuradas según el &lt;strong&gt;modelo de secuencia didáctica en 6 fases&lt;/strong&gt; adoptado por los &lt;a href=&quot;https://www.juntadeandalucia.es/educacion/portals/web/transformacion-digital-educativa/rea&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Recursos Educativos Abiertos (REA) de Andalucía&lt;/a&gt;, inspirado en el ciclo de aprendizaje experiencial de &lt;a href=&quot;resources/Teoria_aprendizaje_experiencial.png&quot; rel=&quot;lightbox&quot;&gt;Kolb&lt;/a&gt; (1984) y en el &lt;a href=&quot;resources/Modelo_5E_los_principios_cognitivos_que_lo_justifican.png&quot; rel=&quot;lightbox&quot;&gt;Modelo 5E&lt;/a&gt;&amp;nbsp;(muy próximo a las 6 fases del REA) propuesto por &lt;a href=&quot;resources/Bybee-tab3_2.png&quot; rel=&quot;lightbox&quot;&gt;Bybee &lt;/a&gt;(1997, 2022).&lt;/p&gt;
 &lt;div class=&quot;exe-layout-2-cols exe-layout-2-50-50 exe-clear&quot;&gt;
@@ -448,7 +448,7 @@ text through the text editing buttons associated with the field."></unicode>
 &lt;li&gt;&lt;strong&gt;Motivar&lt;/strong&gt;: conectar con la experiencia real, generar interés, explicitar objetivos y criterios.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Activar&lt;/strong&gt;: recuperar saberes previos pertinentes que actúan como anclaje cognitivo.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Explorar (“exploraciones concretas” de Kolb)&lt;/strong&gt;: investigar, descubrir, trabajar sobre situaciones significativas con los conocimientos que ya se poseen.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Estructurar (“observacion reflexiva” y “conceptualización abstracta” de Kolb):&lt;/strong&gt;&amp;nbsp;sistematizar, formalizar, conceptualizar los nuevos aprendizajes con andamiajes explícitos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Estructurar (“observación reflexiva” y “conceptualización abstracta” de Kolb):&lt;/strong&gt;&amp;nbsp;sistematizar, formalizar, conceptualizar los nuevos aprendizajes con andamiajes explícitos.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Aplicar (“experimentación activa” de Kolb)&lt;/strong&gt;: transferir lo aprendido a nuevas situaciones, construir el producto final de forma secuenciada.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Concluir&lt;/strong&gt;: sintetizar, reflexionar metacognitivamente, autoevaluar el proceso y proyectar aprendizajes futuros.&lt;/li&gt;
 &lt;/ol&gt;
@@ -472,7 +472,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276660"></int>
+                     <int value="276955"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -486,7 +486,7 @@ text through the text editing buttons associated with the field."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="96_873_2.186"></unicode>
+                   <unicode value="96_873_2.236"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="10">
                     <dictionary>
@@ -497,7 +497,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="Bybee-tab3_2.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\Bybee-tab3_2.png"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\Bybee-tab3_2.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="9f7c06c525c17e90cba4bb3ec24d61e9"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -524,7 +524,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276662"></int>
+                     <int value="276957"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -538,7 +538,7 @@ text through the text editing buttons associated with the field."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="96_873_2.187"></unicode>
+                   <unicode value="96_873_2.237"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="11">
                     <dictionary>
@@ -549,7 +549,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="estructura_de_un_REA__(2)_comp.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\estructura_de_un_REA__(2)_comp.jpg"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\estructura_de_un_REA__(2)_comp.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="420df2a03015bc7a63037be77156c5d2"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -576,7 +576,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276663"></int>
+                     <int value="276958"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -590,7 +590,7 @@ text through the text editing buttons associated with the field."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="96_873_2.188"></unicode>
+                   <unicode value="96_873_2.238"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="12">
                     <dictionary>
@@ -601,7 +601,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="estructura_de_un_REA__(2)_comp.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\estructura_de_un_REA__(2)_comp.jpg"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\estructura_de_un_REA__(2)_comp.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="420df2a03015bc7a63037be77156c5d2"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -628,7 +628,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276689"></int>
+                     <int value="276965"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -642,7 +642,7 @@ text through the text editing buttons associated with the field."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="96_873_2.190"></unicode>
+                   <unicode value="96_873_2.239"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="13">
                     <dictionary>
@@ -651,11 +651,11 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
-                     <string value="Teoria_aprendizaje_experiencial.png"></string>
+                     <string value="Grafico-Modelo-5E-Redonda-MB-es-2022-istf-1170px-ok-.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\Teoria_aprendizaje_experiencial.png"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\Grafico-Modelo-5E-Redonda-MB-es-2022-istf-1170px-ok-.jpg"></string>
                      <string role="key" value="checksum"></string>
-                     <string value="4a58319d8152dba342b92ec6deb9f551"></string>
+                     <string value="e1118c6b8d7abd3dfe6f7c0250558217"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                      <int value="2"></int>
                      <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -680,7 +680,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276696"></int>
+                     <int value="276966"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -694,7 +694,7 @@ text through the text editing buttons associated with the field."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="96_873_2.191"></unicode>
+                   <unicode value="96_873_2.240"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="14">
                     <dictionary>
@@ -703,9 +703,61 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
+                     <string value="Grafico-Modelo-5E-Redonda-MB-es-2022-istf-1170px-ok-.jpg"></string>
+                     <string role="key" value="_userName"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\Grafico-Modelo-5E-Redonda-MB-es-2022-istf-1170px-ok-.jpg"></string>
+                     <string role="key" value="checksum"></string>
+                     <string value="e1118c6b8d7abd3dfe6f7c0250558217"></string>
+                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="warningMsg"></string>
+                     <string value=""></string>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_parent"></string>
+                   <reference key="8"></reference>
+                   <string role="key" value="_thumbnailResource"></string>
+                   <none></none>
+                   <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                   <int value="3"></int>
+                   <string role="key" value="makeThumbnail"></string>
+                   <bool value="0"></bool>
+                  </dictionary>
+                 </instance>
+                 <instance class="exe.engine.galleryidevice.GalleryImage">
+                  <dictionary>
+                   <string role="key" value="_caption"></string>
+                   <instance class="exe.engine.field.TextField">
+                    <dictionary>
+                     <string role="key" value="_id"></string>
+                     <int value="276974"></int>
+                     <string role="key" value="_idevice"></string>
+                     <none></none>
+                     <string role="key" value="_instruc"></string>
+                     <string value=""></string>
+                     <string role="key" value="_name"></string>
+                     <string value=""></string>
+                     <string role="key" value="content"></string>
+                     <string value=""></string>
+                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                     <int value="4"></int>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_id"></string>
+                   <unicode value="96_873_2.241"></unicode>
+                   <string role="key" value="_imageResource"></string>
+                   <instance class="exe.engine.resource.Resource" reference="15">
+                    <dictionary>
+                     <string role="key" value="_idevice"></string>
+                     <reference key="7"></reference>
+                     <string role="key" value="_package"></string>
+                     <reference key="2"></reference>
+                     <string role="key" value="_storageName"></string>
                      <string value="Modelo_5E_los_principios_cognitivos_que_lo_justifican.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmppb0ibl.eXe\\previews\\allyourbase\\Modelo_5E_los_principios_cognitivos_que_lo_justifican.png"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\Modelo_5E_los_principios_cognitivos_que_lo_justifican.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="94a4bdd894e1a8306e50f4b858684ad4"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -732,7 +784,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276697"></int>
+                     <int value="276986"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -746,59 +798,7 @@ text through the text editing buttons associated with the field."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="96_873_2.192"></unicode>
-                   <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="15">
-                    <dictionary>
-                     <string role="key" value="_idevice"></string>
-                     <reference key="7"></reference>
-                     <string role="key" value="_package"></string>
-                     <reference key="2"></reference>
-                     <string role="key" value="_storageName"></string>
-                     <string value="Grafico-Modelo-5E-Redonda-MB-es-2022-istf-1170px-ok-.jpg"></string>
-                     <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmppb0ibl.eXe\\previews\\allyourbase\\Grafico-Modelo-5E-Redonda-MB-es-2022-istf-1170px-ok-.jpg"></string>
-                     <string role="key" value="checksum"></string>
-                     <string value="e1118c6b8d7abd3dfe6f7c0250558217"></string>
-                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                     <int value="2"></int>
-                     <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                     <int value="2"></int>
-                     <string role="key" value="warningMsg"></string>
-                     <string value=""></string>
-                    </dictionary>
-                   </instance>
-                   <string role="key" value="_parent"></string>
-                   <reference key="8"></reference>
-                   <string role="key" value="_thumbnailResource"></string>
-                   <none></none>
-                   <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-                   <int value="3"></int>
-                   <string role="key" value="makeThumbnail"></string>
-                   <bool value="0"></bool>
-                  </dictionary>
-                 </instance>
-                 <instance class="exe.engine.galleryidevice.GalleryImage">
-                  <dictionary>
-                   <string role="key" value="_caption"></string>
-                   <instance class="exe.engine.field.TextField">
-                    <dictionary>
-                     <string role="key" value="_id"></string>
-                     <int value="276698"></int>
-                     <string role="key" value="_idevice"></string>
-                     <none></none>
-                     <string role="key" value="_instruc"></string>
-                     <string value=""></string>
-                     <string role="key" value="_name"></string>
-                     <string value=""></string>
-                     <string role="key" value="content"></string>
-                     <string value=""></string>
-                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                     <int value="4"></int>
-                    </dictionary>
-                   </instance>
-                   <string role="key" value="_id"></string>
-                   <unicode value="96_873_2.193"></unicode>
+                   <unicode value="96_873_2.242"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="16">
                     <dictionary>
@@ -807,11 +807,11 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
-                     <string value="Grafico-Modelo-5E-Redonda-MB-es-2022-istf-1170px-ok-.jpg"></string>
+                     <string value="Teoria_aprendizaje_experiencial.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmppb0ibl.eXe\\previews\\allyourbase\\Grafico-Modelo-5E-Redonda-MB-es-2022-istf-1170px-ok-.jpg"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\Teoria_aprendizaje_experiencial.png"></string>
                      <string role="key" value="checksum"></string>
-                     <string value="e1118c6b8d7abd3dfe6f7c0250558217"></string>
+                     <string value="4a58319d8152dba342b92ec6deb9f551"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                      <int value="2"></int>
                      <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -838,7 +838,7 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="194"></int>
+              <int value="243"></int>
               <string role="key" value="parentNode"></string>
               <reference key="9"></reference>
              </dictionary>
@@ -954,7 +954,7 @@ text through the text editing buttons associated with the field."></unicode>
 &lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span class=&quot;author&quot;&gt;Infografía de elaboración propia realizada con Perplexity (2026)&lt;/span&gt;. &lt;span class=&quot;title&quot;&gt;&lt;em&gt;Tu reto&lt;/em&gt;&lt;/span&gt; &lt;span class=&quot;license&quot;&gt;&lt;span class=&quot;sep&quot;&gt;(&lt;/span&gt;&lt;a href=&quot;http://creativecommons.org/licenses/?lang=es&quot; rel=&quot;license nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;Creative Commons BY-NC-SA&quot;&gt;CC BY-NC-SA&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;El objetivo final (ambicioso) es que en estas 6 horas (dos sesiones de 3 horas cada una) dispondréis de &lt;strong&gt;la información y herramientas&lt;/strong&gt; para esbozar una &lt;strong&gt;situación de aprendizaje completa.&lt;/strong&gt;&amp;nbsp; No se trata simplemente de &lt;a href=&quot;resources/secuencia_didactica_rea_rellenable.pdf&quot; rel=&quot;external noopener&quot; target=&quot;_blank&quot;&gt;“rellenar una plantilla”&lt;/a&gt; de programación, sino de construir una experiencia de aprendizaje estructurada que integre teoría pedagógica, conocimiento didáctico del contenido y conocimiento de vuestro contexto educativo específico.&amp;nbsp;Este diseño no será un ejercicio teórico desconectado de vuestra práctica real, sino una herramienta funcional y transferible que sistematiza vuestro conocimiento didáctico bajo un marco pedagógicamente fundamentado.&lt;/p&gt;
-&lt;p&gt;Se trata de poder explicar con precisión &lt;strong&gt;por qué diseñas como diseñas&lt;/strong&gt;, de fundamentar pedagógicamente tus decisiones didácticas, de compartir con tu departamento un modelo común que facilite el trabajo colaborativo y, sobre todo, de proporcionar a tu alumnado experiencias de aprendizaje donde sepan en todo momento qué se espera de ellos, cómo pueden autorregularse y qué criterios definen el éxito. Este REA formativo será tu herramienta para ese cambio.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;"></unicode>
+&lt;p&gt;Se trata de poder explicar con precisión &lt;strong&gt;&lt;span style=&quot;background-color: #ffff00;&quot;&gt;por qué diseñas como diseñas&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;background-color: #ffff00;&quot;&gt;, de fundamentar pedagógicamente tus decisiones didácticas&lt;/span&gt;, de compartir con &lt;span style=&quot;background-color: #ffff00;&quot;&gt;tu departamento un modelo común &lt;/span&gt;que facilite el trabajo colaborativo y, sobre todo, de proporcionar a tu alumnado experiencias de aprendizaje donde sepan en todo momento qué se espera de ellos, cómo pueden autorregularse y qué criterios definen el éxito. Este REA formativo será tu herramienta para ese cambio.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -974,7 +974,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276686"></int>
+                     <int value="276983"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -988,7 +988,7 @@ text through the text editing buttons associated with the field."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="539_539_2.129"></unicode>
+                   <unicode value="539_539_2.150"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="19">
                     <dictionary>
@@ -999,7 +999,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="secuencia_didactica_rea_rellenable.pdf"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\secuencia_didactica_rea_rellenable.pdf"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\secuencia_didactica_rea_rellenable.pdf"></string>
                      <string role="key" value="checksum"></string>
                      <string value="5cb5f8007245ba1cfa220cabcf66ba42"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1026,7 +1026,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276692"></int>
+                     <int value="276989"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1040,7 +1040,7 @@ text through the text editing buttons associated with the field."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="539_539_2.130"></unicode>
+                   <unicode value="539_539_2.151"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="20">
                     <dictionary>
@@ -1051,7 +1051,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="Tu_reto_comp_esbozar_una_experiencia_de_aprendizaje_completa_comp.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\Tu_reto_comp_esbozar_una_experiencia_de_aprendizaje_completa_comp.png"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\Tu_reto_comp_esbozar_una_experiencia_de_aprendizaje_completa_comp.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="c38bfa79a46d2f50efbd2cc1b0299c2e"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1078,7 +1078,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276693"></int>
+                     <int value="276990"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1092,7 +1092,7 @@ text through the text editing buttons associated with the field."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="539_539_2.131"></unicode>
+                   <unicode value="539_539_2.152"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="21">
                     <dictionary>
@@ -1103,7 +1103,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="Tu_reto_comp_esbozar_una_experiencia_de_aprendizaje_completa_comp.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\Tu_reto_comp_esbozar_una_experiencia_de_aprendizaje_completa_comp.png"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\Tu_reto_comp_esbozar_una_experiencia_de_aprendizaje_completa_comp.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="c38bfa79a46d2f50efbd2cc1b0299c2e"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1132,7 +1132,7 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="132"></int>
+              <int value="153"></int>
               <string role="key" value="parentNode"></string>
               <reference key="9"></reference>
              </dictionary>
@@ -1249,38 +1249,38 @@ text through the text editing buttons associated with the field."></unicode>
 &lt;h2&gt;&amp;nbsp;Andamiajes metacognitivos integrados con la evaluación formativa y formadora&lt;/h2&gt;
 &lt;p&gt;Diseñaréis al menos dos herramientas que funcionan simultáneamente como &lt;strong&gt;andamiaje para la autonomía&lt;/strong&gt; y como &lt;strong&gt;estrategias de evaluación&lt;/strong&gt;. Esta doble función refleja el principio de que “no se puede separar el aprendizaje de la evaluación” (Sanmartí, 2020, p. 10). Las herramientas que podéis diseñar son:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Bases de Orientación (BO)&lt;/strong&gt;: herramientas de anticipación y planificación que permiten al alumnado representarse el proceso completo antes de ejecutarlo (infografías, diagramas de flujo, mapas conceptuales). Las BO cumplen una &lt;strong&gt;doble función pedagógica&lt;/strong&gt;:
+&lt;li&gt;&lt;span style=&quot;background-color: #ffff00;&quot;&gt;&lt;strong&gt;Bases de Orientación (BO)&lt;/strong&gt;&lt;/span&gt;: herramientas de anticipación y planificación que permiten al alumnado representarse el proceso completo antes de ejecutarlo (infografías, diagramas de flujo, mapas conceptuales). Las BO cumplen una &lt;strong&gt;doble función pedagógica&lt;/strong&gt;:
 &lt;ul style=&quot;margin-top: 0.5em;&quot;&gt;
 &lt;li&gt;&lt;em&gt;Como andamiaje&lt;/em&gt;: reducen la carga cognitiva y facilitan la planificación.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Como evaluación formativa&lt;/em&gt;: implementan la &lt;strong&gt;primera estrategia clave de D. Wiliam (2011)&lt;/strong&gt;: “clarificar, compartir y comprender los objetivos de aprendizaje y criterios de éxito”. Al proporcionar una BO, hacemos explícito qué debe hacer el alumnado, cómo y con qué criterios, permitiéndole anticipar el éxito.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Listas de cotejo (checklists)&lt;/strong&gt;: instrumentos que explicitan criterios de realización paso a paso. Las listas de cotejo también cumplen una &lt;strong&gt;doble función pedagógica&lt;/strong&gt;:
+&lt;li&gt;&lt;span style=&quot;background-color: #ffff00;&quot;&gt;&lt;strong&gt;Listas de cotejo (checklists)&lt;/strong&gt;&lt;/span&gt;: instrumentos que explicitan criterios de realización paso a paso. Las listas de cotejo también cumplen una &lt;strong&gt;doble función pedagógica&lt;/strong&gt;:
 &lt;ul style=&quot;margin-top: 0.5em;&quot;&gt;
-&lt;li&gt;&lt;em&gt;Como andamiaje&lt;/em&gt;: guían la ejecución de la tarea, permitiendo la autorregulación procesual&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Como andamiaje&lt;/em&gt;: guían la ejecución de la tarea, permitiendo la autorregulación procesual.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Como criterios de realización en evaluación formadora&lt;/em&gt;: permiten al alumnado verificar autónomamente que está cumpliendo cada paso del proceso antes de dar por terminada la tarea. Cada ítem verificable (SÍ/NO) es un &lt;strong&gt;criterio de realización&lt;/strong&gt; que responde a la pregunta “¿he hecho todo lo necesario?”&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Modelos anotados&lt;/strong&gt;: ejemplos de referencia deconstruidos para su análisis antes de la producción. Los modelos anotados también integran evaluación formativa:
+&lt;li&gt;&lt;span style=&quot;background-color: #ffff00;&quot;&gt;&lt;strong&gt;Modelos anotados&lt;/strong&gt;:&lt;/span&gt; ejemplos de referencia deconstruidos para su análisis antes de la producción. Los modelos anotados también integran evaluación formativa:
 &lt;ul style=&quot;margin-top: 0.5em;&quot;&gt;
 &lt;li&gt;&lt;em&gt;Como andamiaje&lt;/em&gt;: facilitan la comprensión de qué es un producto de calidad.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Como evaluación formativa&lt;/em&gt;: hacen visibles los &lt;strong&gt;criterios de calidad&lt;/strong&gt; implícitos en productos excelentes, permitiendo al alumnado anticipar el nivel de logro esperado (estrategia 1 de Wiliam: establecer y comunicar criterios de éxito)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Como evaluación formativa&lt;/em&gt;: hacen visibles los &lt;strong&gt;criterios de calidad&lt;/strong&gt; implícitos en productos excelentes, permitiendo al alumnado anticipar el nivel de logro esperado (estrategia 1 de Wiliam: establecer y comunicar criterios de éxito).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plantillas de planificación&lt;/strong&gt;: organizadores gráficos con campos estructurados para guiar el diseño previo a la ejecución. Funcionan como andamiaje que facilita la planificación estratégica y metacognitiva.&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;background-color: #ffff00;&quot;&gt;&lt;strong&gt;Plantillas de planificación&lt;/strong&gt;&lt;/span&gt;: organizadores gráficos con campos estructurados para guiar el diseño previo a la ejecución. Funcionan como andamiaje que facilita la planificación estratégica y metacognitiva.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Estos andamiajes no son “materiales extra” opcionales, sino herramientas esenciales para facilitar la autonomía progresiva del alumnado.&amp;nbsp; El andamiaje consiste en proporcionar apoyos temporales ajustados al nivel del aprendiz para que pueda realizar tareas que aún no domina autónomamente. Posteriormente, esos apoyos se retirarán progresivamente conforme avanza.&amp;nbsp;Simultáneamente, como defiende Wiliam (2011), estos instrumentos implementan las estrategias más efectivas de evaluación formativa: clarificar objetivos y criterios, proporcionar feedback durante el proceso y activar al estudiante como dueño de su propio aprendizaje.&lt;/p&gt;
 &lt;h2&gt;Criterios de evaluación formadora: de la evaluación formativa a la formadora&lt;/h2&gt;
 &lt;p&gt;Diseñaréis dos tipos de criterios diferenciados que permiten el paso de la &lt;strong&gt;evaluación formativa&lt;/strong&gt; (el profesor recoge información y ajusta) a la &lt;strong&gt;evaluación formadora&lt;/strong&gt; (el alumno autorregula su aprendizaje):&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Criterios de realización&lt;/strong&gt;: Verifican que se han completado todos los pasos del proceso (respuesta: SÍ/NO, Hecho/No hecho). Responden a la pregunta: &lt;em&gt;“¿He hecho todo lo necesario?”&lt;/em&gt;
+&lt;li&gt;&lt;strong&gt;&lt;span style=&quot;background-color: #ffff00;&quot;&gt;Criterios de realización&lt;/span&gt;.&lt;/strong&gt;&amp;nbsp;Verifican que se han completado todos los pasos del proceso (respuesta: SÍ/NO, Hecho/No hecho). Responden a la pregunta: &lt;em&gt;“¿He hecho todo lo necesario?”&lt;/em&gt;
 &lt;ul style=&quot;margin-top: 0.5em;&quot;&gt;
 &lt;li&gt;Se implementan mediante &lt;strong&gt;listas de cotejo&lt;/strong&gt; (el andamiaje comentado arriba).&lt;/li&gt;
 &lt;li&gt;Permiten la &lt;strong&gt;automonitorización procesual&lt;/strong&gt;: el alumno verifica paso a paso mientras ejecuta.&lt;/li&gt;
 &lt;li&gt;Ejemplo: “He incluido al menos 3 fuentes secundarias académicas” (verificable objetivamente).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Criterios de calidad&lt;/strong&gt;: Evalúan el nivel de logro del producto final (respuesta: escalas de niveles, por ejemplo: Inicial / Adecuado / Avanzado). Responden a la pregunta: &lt;em&gt;“¿Lo he hecho bien?”.&lt;/em&gt;
+&lt;li&gt;&lt;strong&gt;&lt;span style=&quot;background-color: #ffff00;&quot;&gt;Criterios de calidad&lt;/span&gt;.&lt;/strong&gt;&amp;nbsp;Evalúan el nivel de logro del producto final (respuesta: escalas de niveles, por ejemplo: Inicial / Adecuado / Avanzado). Responden a la pregunta: &lt;em&gt;“¿Lo he hecho bien?”.&lt;/em&gt;
 &lt;ul style=&quot;margin-top: 0.5em;&quot;&gt;
 &lt;li&gt;Se anticipan mediante &lt;strong&gt;modelos anotados&lt;/strong&gt; (el andamiaje comentado arriba) y se formalizan en &lt;strong&gt;rúbricas con descriptores de niveles.&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Permiten la &lt;strong&gt;autoevaluación cualitativa&lt;/strong&gt;: el alumno compara su producción con los descriptores y se sitúa.&lt;/li&gt;
@@ -1292,13 +1292,13 @@ text through the text editing buttons associated with the field."></unicode>
 &lt;p&gt;La conexión entre andamiaje y evaluación formadora es, por tanto, estructural y no accidental: las mismas herramientas (BO, listas de cotejo, modelos, rúbricas) que facilitan el aprendizaje son las que permiten su evaluación autorregulada. Esta es la esencia del diseño didáctico integrado que trabajaremos en estas sesiones.&lt;/p&gt;
 &lt;ul&gt;&lt;/ul&gt;
 &lt;h2&gt;Integración de IA generativa como asistente funcional&lt;/h2&gt;
-&lt;p&gt;Utilizaréis herramientas como ChatGPT, Claude, Perplexity o NotebookLM para generar propuestas de retos, esbozar secuencias de actividades, crear borradores de andamiajes y diseñar criterios de evaluación. Sin embargo —y esto es crucial—, la IA será &lt;strong&gt;vuestro asistente&lt;/strong&gt;, no vuestra sustituto: vosotros pondréis el criterio didáctico experto, el conocimiento de vuestro alumnado concreto, la adaptación al contexto específico y la intencionalidad educativa fundamentada.&lt;/p&gt;
+&lt;p&gt;Utilizaréis herramientas como ChatGPT, Claude, Perplexity o NotebookLM para generar propuestas de retos, esbozar secuencias de actividades, crear borradores de andamiajes y diseñar criterios de evaluación. Sin embargo —y esto es crucial—, la IA será &lt;strong&gt;vuestro asistente&lt;/strong&gt;, no vuestro sustituto: vosotros pondréis el &lt;span style=&quot;background-color: #ffff00;&quot;&gt;criterio didáctico experto, el conocimiento&lt;/span&gt; de vuestro alumnado concreto, la&lt;span style=&quot;background-color: #ffff00;&quot;&gt; adaptación al contexto específico y la intencionalidad&lt;/span&gt; educativa fundamentada.&lt;/p&gt;
 &lt;p&gt;Seguiréis el &lt;strong&gt;&lt;a href=&quot;https://educacion.bilateria.org/marco-para-la-integracion-de-la-ia-generativa-en-las-tareas-educativas-v-2-revisada&quot;&gt;Marco MIAE&lt;/a&gt; (&lt;em&gt;M&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;arco para la &lt;strong&gt;I&lt;/strong&gt;ntegración de la&lt;strong&gt; IA &lt;/strong&gt;generativa en las tareas&lt;strong&gt; Educativas&lt;/strong&gt;&lt;/em&gt;), que establece niveles progresivos de integración de IA desde el trabajo humano puro hasta la IA autónoma supervisada. En mi opinión, el nivel óptimo es el nivel 4: ampliar las capacidades sin sustituir vuestra responsabilidad profesional.&lt;/p&gt;
 &lt;figure class=&quot;exe-figure exe-image position-center license-CC-BY-SA&quot; style=&quot;width: 701px;&quot;&gt;&lt;a href=&quot;resources/miaev2-comp.png&quot; rel=&quot;lightbox&quot;&gt;&lt;img src=&quot;resources/miaev2-comp.png&quot; alt=&quot;Infografía con los 5 niveles del MIAE&quot; title=&quot;Marco MIAE&quot; width=&quot;701&quot; height=&quot;391&quot; hspace=&quot;auto&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/a&gt;
 &lt;figcaption class=&quot;figcaption&quot;&gt;&lt;a href=&quot;https://educacion.bilateria.org/acerca-del-autor&quot; target=&quot;_blank&quot; class=&quot;author&quot; rel=&quot;noopener&quot;&gt;Juan José de Haro&lt;/a&gt;. &lt;a href=&quot;https://educacion.bilateria.org/marco-para-la-integracion-de-la-ia-generativa-en-las-tareas-educativas-v-2-revisada&quot; target=&quot;_blank&quot; class=&quot;title&quot; rel=&quot;noopener&quot;&gt;&lt;em&gt;Marco MIAE&lt;/em&gt;&lt;/a&gt; &lt;span class=&quot;license&quot;&gt;&lt;span class=&quot;sep&quot;&gt;(&lt;/span&gt;&lt;a href=&quot;http://creativecommons.org/licenses/?lang=es&quot; rel=&quot;license nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;Creative Commons BY-SA&quot;&gt;CC BY-SA&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/div&gt;
-&lt;p&gt;Estos logros son&amp;nbsp;&lt;strong&gt;herramientas profesionales&lt;/strong&gt; que pueden transformar tu práctica docente de forma sostenible. No se trata de aprender teoría pedagógica abstracta, sino de &lt;strong&gt;sistematizar y mejorar lo que ya haces&lt;/strong&gt;, dotándolo de estructura explícita y fundamentación didáctica.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;"></unicode>
+&lt;p&gt;Estos logros son&amp;nbsp;&lt;strong&gt;herramientas profesionales&lt;/strong&gt; que pueden transformar tu práctica docente de forma sostenible. &lt;span style=&quot;background-color: #ffff00;&quot;&gt;No&lt;/span&gt; se trata de &lt;span style=&quot;background-color: #ffff00;&quot;&gt;aprender teoría pedagógica abstracta, sino de &lt;strong&gt;sistematizar y mejorar lo que ya haces&lt;/strong&gt;,&lt;/span&gt; dotándolo de estructura explícita y fundamentación didáctica.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1318,7 +1318,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276673"></int>
+                     <int value="276970"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1332,7 +1332,7 @@ text through the text editing buttons associated with the field."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="538_538_2.88"></unicode>
+                   <unicode value="538_538_2.102"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="24">
                     <dictionary>
@@ -1343,7 +1343,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="miaev2-comp.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\miaev2-comp.png"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\miaev2-comp.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="0b79eaa3a79af89ba68229d778037ccb"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1370,7 +1370,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276674"></int>
+                     <int value="276971"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1384,7 +1384,7 @@ text through the text editing buttons associated with the field."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="538_538_2.89"></unicode>
+                   <unicode value="538_538_2.103"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="25">
                     <dictionary>
@@ -1395,7 +1395,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="miaev2-comp.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\miaev2-comp.png"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\miaev2-comp.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="0b79eaa3a79af89ba68229d778037ccb"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1424,7 +1424,7 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="90"></int>
+              <int value="104"></int>
               <string role="key" value="parentNode"></string>
               <reference key="9"></reference>
              </dictionary>
@@ -1667,12 +1667,12 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-udlContent exe-udlContent-representation&quot;&gt;&lt;section class=&quot;exe-udlContent-block&quot;&gt;&lt;div class=&quot;exe-udlContent-content&quot;&gt;&lt;div class=&quot;exe-udlContent-content-main&quot;&gt;&lt;p&gt;Como ya sabéis un elemento básico del andamiaje, son las &lt;strong&gt;bases de orientación&lt;/strong&gt;, es decir, representaciones visuales para&amp;nbsp;expresar la planificación de las acciones. La infografía que aparece más abajo corresponde a la primera base de orientación de esta situación de aprendizaje como tarea global:&lt;/p&gt;
+              <unicode content="true" value="&lt;div class=&quot;exe-udlContent exe-udlContent-representation&quot;&gt;&lt;section class=&quot;exe-udlContent-block&quot;&gt;&lt;div class=&quot;exe-udlContent-content&quot;&gt;&lt;div class=&quot;exe-udlContent-content-main&quot;&gt;&lt;p&gt;Como ya sabéis un elemento básico del andamiaje, son las &lt;span style=&quot;background-color: #ffff00;&quot;&gt;&lt;strong&gt;bases de orientación&lt;/strong&gt;, es decir, representaciones visuales para&amp;nbsp;expresar la planificación de las acciones&lt;/span&gt;. La infografía que aparece más abajo corresponde a la primera base de orientación de esta situación de aprendizaje como tarea global:&lt;/p&gt;
 &lt;figure class=&quot;exe-figure exe-image position-center license-CC-BY-NC-SA&quot; style=&quot;width: 768px;&quot;&gt;&lt;img src=&quot;resources/Mapa_conceptual_comp.png&quot; alt=&quot;Infografía que divide y articulas las diferentes fases y tareas de la situación&quot; title=&quot;Infografía de la situación de aprendizaje&quot; width=&quot;768&quot; height=&quot;1376&quot; hspace=&quot;auto&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;
-&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span class=&quot;author&quot;&gt;Infografía de elaboración propia realizada con Gemini (2025)&lt;/span&gt;. &lt;span class=&quot;title&quot;&gt;&lt;em&gt;BO de la situación de aprendizaje&lt;/em&gt;&lt;/span&gt; &lt;span class=&quot;license&quot;&gt;&lt;span class=&quot;sep&quot;&gt;(&lt;/span&gt;&lt;a href=&quot;http://creativecommons.org/licenses/?lang=es&quot; rel=&quot;license nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;Creative Commons BY-NC-SA&quot;&gt;CC BY-NC-SA&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span class=&quot;author&quot;&gt;Infografía de elaboración propia realizada con Gemini (2026)&lt;/span&gt;. &lt;span class=&quot;title&quot;&gt;&lt;em&gt;BO de la situación de aprendizaje&lt;/em&gt;&lt;/span&gt; &lt;span class=&quot;license&quot;&gt;&lt;span class=&quot;sep&quot;&gt;(&lt;/span&gt;&lt;a href=&quot;http://creativecommons.org/licenses/?lang=es&quot; rel=&quot;license nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;Creative Commons BY-NC-SA&quot;&gt;CC BY-NC-SA&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;p&gt;Este diseño formativo &lt;strong&gt;ES en sí mismo&lt;/strong&gt; el modelo que practicaréis: secuenciación en fases, trabajo con modelos expertos, andamiajes explícitos (bases de orientación, plantillas, prompts estructurados, guías de análisis, etc.), criterios de evaluación transparentes y reflexión metacognitiva continua.&lt;/p&gt;
-&lt;p&gt;Esta coherencia metodológica —“practicar lo que se predica”— no es casual: se fundamenta en la teoría del aprendizaje situado y en los principios del modelado pedagógico. Al finalizar, no solo dispondréis del esbozo de una situación de aprendizaje diseñada, sino que habréis &lt;strong&gt;practicado desde dentro&lt;/strong&gt; cómo funciona el modelo.&amp;nbsp; No se puede separar el aprendizaje sobre el diseño didáctico de una situación de aprendizaje de la experiencia directa de ese diseño como “aprendices”.&lt;/p&gt;
+&lt;p&gt;Este &lt;span style=&quot;background-color: #ffff00;&quot;&gt;diseño formativo &lt;strong&gt;ES en sí mismo&lt;/strong&gt; el modelo que practicaréis&lt;/span&gt;: secuenciación en fases, trabajo con modelos expertos, andamiajes explícitos (bases de orientación, plantillas, prompts estructurados, guías de análisis, etc.), criterios de evaluación transparentes y reflexión metacognitiva continua.&lt;/p&gt;
+&lt;p&gt;Esta coherencia metodológica —“practicar lo que se predica”— no es casual: se fundamenta en la &lt;span style=&quot;background-color: #ffff00;&quot;&gt;teoría del aprendizaje situado y en los principios del modelado pedagógico&lt;/span&gt;. Al finalizar, no solo dispondréis del esbozo de una situación de aprendizaje diseñada, sino que habréis &lt;strong&gt;practicado desde dentro&lt;/strong&gt; cómo funciona el modelo.&amp;nbsp; No se puede separar el aprendizaje sobre el diseño didáctico de una situación de aprendizaje de la experiencia directa de ese diseño como “aprendices”.&lt;/p&gt;
 &lt;p&gt;¡Bienvenidos a este &lt;strong&gt;meta-REA!&lt;/strong&gt; &amp;nbsp;Aprenderéis a diseñar REAs &lt;strong&gt;diseñando un REA&lt;/strong&gt; (el vuestro propio) mientras experimentáis las 6 fases del REA formativo que os proporciono.&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
@@ -1693,7 +1693,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276672"></int>
+                     <int value="276969"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1707,7 +1707,7 @@ text through the text editing buttons associated with the field."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="540_541_2.118"></unicode>
+                   <unicode value="540_541_2.125"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="30">
                     <dictionary>
@@ -1718,7 +1718,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="Mapa_conceptual_comp.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\Mapa_conceptual_comp.png"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\Mapa_conceptual_comp.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="bea5148145c92d56cb2f30d7fff898f1"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1747,7 +1747,7 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="119"></int>
+              <int value="126"></int>
               <string role="key" value="parentNode"></string>
               <reference key="9"></reference>
              </dictionary>
@@ -1885,9 +1885,9 @@ text through the text editing buttons associated with the field."></unicode>
               <unicode content="true" value="&lt;div class=&quot;exe-udlContent exe-udlContent-engagement&quot;&gt;&lt;section class=&quot;exe-udlContent-block&quot;&gt;&lt;div class=&quot;exe-udlContent-content&quot;&gt;&lt;div class=&quot;exe-udlContent-content-main&quot;&gt;&lt;figure class=&quot;exe-figure exe-image position-center license-CC-BY-NC-SA&quot; style=&quot;width: 701px;&quot;&gt;&lt;a href=&quot;resources/Fase_2a_ACTIVAR_-_Partir_de_lo_que_ya_sabes_(1).jpg&quot; rel=&quot;lightbox&quot;&gt;&lt;img src=&quot;resources/Fase_2a_ACTIVAR_-_Partir_de_lo_que_ya_sabes_(1).jpg&quot; alt=&quot;Base de orientación de la fase 2&quot; title=&quot;Fase 2: partir de lo que ya sabes&quot; width=&quot;701&quot; height=&quot;467&quot;&gt;&lt;/a&gt;
 &lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span class=&quot;author&quot;&gt;Infografía de elaboración propia realizada con Perplexity (2026)&lt;/span&gt;. &lt;span class=&quot;title&quot;&gt;&lt;em&gt;Fase 2: partir de lo que ya sabes&lt;/em&gt;&lt;/span&gt; &lt;span class=&quot;license&quot;&gt;&lt;span class=&quot;sep&quot;&gt;(&lt;/span&gt;&lt;a href=&quot;http://creativecommons.org/licenses/?lang=es&quot; rel=&quot;license nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;Creative Commons BY-NC-SA&quot;&gt;CC BY-NC-SA&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;¿Es posible navegar hacia un destino desconocido sin saber dónde te encuentras? Imposible, ¿verdad? Cualquier GPS necesita primero localizar tu posición actual para calcular la mejor ruta. Pues algo similar ocurre con el aprendizaje profesional docente: antes de construir nuevos conocimientos sobre diseño de experiencias de aprendizaje, necesitamos situarnos y reconocer desde dónde partimos; es decir, identificar y activar lo que ya sabemos, las experiencias que hemos acumulado y las intuiciones pedagógicas que hemos desarrollado a lo largo de nuestra trayectoria, aunque no siempre las hayamos sistematizado ni nombrado con precisión (Vid. &lt;a href=&quot;https://educaptic.wordpress.com/2015/01/17/autobiografia-metodologica/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Autobiografía metodológica&lt;/a&gt;).&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Además, nuestra memoria no funciona como un simple almacén de datos. Distinguimos entre memoria de trabajo, donde procesamos la información en el “aquí y ahora” con una capacidad muy limitada, y memoria a largo plazo, donde se consolidan los conocimientos duraderos que realmente integramos en nuestra práctica. Las &lt;strong&gt;prácticas de evocación&lt;/strong&gt; —el acto deliberado de recuperar información que ya conocemos sin mirar apuntes ni materiales— son el puente entre ambas: cada vez que evocamos algo, reforzamos esa huella, la reorganizamos, la conectamos con nuevas ideas y la hacemos más resistente al olvido. Por eso la ciencia cognitiva considera la evocación un pilar del aprendizaje eficaz, no solo una forma de “comprobar” lo aprendido.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;La &lt;strong&gt;teoría de la carga cognitiva&lt;/strong&gt; añade una pieza clave a este cuadro: nuestra capacidad para procesar información nueva es limitada. Si intentamos aprender algo complejo —como diseñar situaciones de aprendizaje que integren andamiajes, evaluación formadora y criterios explícitos— sin antes activar y organizar lo que ya sabemos sobre esos conceptos, saturamos la memoria de trabajo y el aprendizaje se vuelve superficial y agotador. En cambio, cuando activamos estratégicamente nuestro conocimiento previo, liberamos espacio mental para integrar las nuevas ideas con mayor profundidad y eficacia: es como despejar el escritorio antes de comenzar un proyecto complejo para reducir interferencias y optimizar el trabajo cognitivo.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;¿Es posible navegar hacia un destino desconocido sin saber dónde te encuentras? Imposible, ¿verdad? Cualquier GPS necesita primero localizar tu posición actual para calcular la mejor ruta. Algo similar ocurre con el aprendizaje profesional docente: antes de construir nuevos conocimientos sobre diseño de experiencias de aprendizaje, necesitamos situarnos y reconocer desde dónde partimos; es decir, identificar y activar lo que ya sabemos, las experiencias que hemos acumulado y las intuiciones pedagógicas que hemos desarrollado a lo largo de nuestra trayectoria, aunque no siempre las hayamos sistematizado ni nombrado con precisión (Vid. &lt;a href=&quot;https://educaptic.wordpress.com/2015/01/17/autobiografia-metodologica/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Autobiografía metodológica&lt;/a&gt;).&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Además, nuestra memoria no funciona como un simple almacén de datos. Distinguimos entre memoria de trabajo, donde procesamos la información en el “aquí y ahora” con una capacidad muy limitada, y memoria a largo plazo, donde se consolidan los conocimientos duraderos que realmente integramos en nuestra práctica. Las &lt;span style=&quot;background-color: #ffff00;&quot;&gt;&lt;strong&gt;prácticas de evocación&lt;/strong&gt;&lt;/span&gt; —el acto deliberado de recuperar información que ya conocemos sin mirar apuntes ni materiales— son el puente entre ambas: cada vez que evocamos algo, reforzamos esa huella, la reorganizamos, la conectamos con nuevas ideas y la hacemos más resistente al olvido. Por eso la ciencia cognitiva considera la evocación un pilar del aprendizaje eficaz, no solo una forma de “comprobar” lo aprendido.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;La &lt;span style=&quot;background-color: #ffff00;&quot;&gt;&lt;strong&gt;teoría de la carga cognitiva&lt;/strong&gt;&lt;/span&gt; añade una pieza clave a este cuadro: nuestra capacidad para procesar información nueva es limitada. Si intentamos aprender algo complejo —como diseñar situaciones de aprendizaje que integren andamiajes, evaluación formadora y criterios explícitos— sin antes activar y organizar lo que ya sabemos sobre esos conceptos, saturamos la memoria de trabajo y el aprendizaje se vuelve superficial y agotador. En cambio, cuando activamos estratégicamente nuestro conocimiento previo, liberamos espacio mental para integrar las nuevas ideas con mayor profundidad y eficacia: es como despejar el escritorio antes de comenzar un proyecto complejo para reducir interferencias y optimizar el trabajo cognitivo.&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;Desde la perspectiva de la evaluación formativa, esta fase responde a la primera de las cinco estrategias descritas por Dylan Wiliam: &lt;strong&gt;aclarar el destino del aprendizaje, saber dónde está el alumnado y decidir qué pasos son necesarios para avanzar&lt;/strong&gt;. En vuestro caso, el “alumnado” sois vosotros mismos como docentes: antes de diseñar un esbozo de situación de aprendizaje completa, necesitamos evidencias de qué prácticas y concepciones manejáis ya en torno a los cinco pilares de este REA.&lt;/p&gt;
 &lt;div style=&quot;background-color: #e3f2fd; border: 3px solid #1976d2; padding: 15px; margin: 15px 0; border-radius: 8px;&quot;&gt;
 &lt;p style=&quot;text-align: justify; margin: 0 0 10px 0;&quot;&gt;&lt;strong&gt;🎯 Objetivos de esta fase&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
@@ -1924,7 +1924,7 @@ text through the text editing buttons associated with the field."></unicode>
 &lt;li&gt;&lt;strong&gt;Evaluación formativa y formadora&lt;/strong&gt;: diferenciar entre la evaluación que orienta (formativa: el profesor ajusta) y la que empodera (formadora: el alumno autorregula).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Criterios explícitos y feedback efectivo&lt;/strong&gt;: compartir desde el inicio qué se espera, cómo se evaluará y proporcionar retroalimentación específica y procesable.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Los actividades interactivas de esta fase tienen una &lt;strong&gt;triple finalidad&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Las actividades interactivas de esta fase tienen una &lt;strong&gt;triple finalidad&lt;/strong&gt;:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Diagnóstico inicial&lt;/strong&gt;: identificar qué conceptos pedagógicos domináis ya y dónde necesitáis reforzar o precisar vuestro conocimiento.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Activación estratégica&lt;/strong&gt;: traer a vuestra memoria de trabajo los saberes previos que necesitaréis en las siguientes fases para diseñar vuestra situación de aprendizaje.&lt;/li&gt;
@@ -1950,7 +1950,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276664"></int>
+                     <int value="276959"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1964,7 +1964,7 @@ text through the text editing buttons associated with the field."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="107_541_2.78"></unicode>
+                   <unicode value="107_541_2.92"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="34">
                     <dictionary>
@@ -1975,7 +1975,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="Fase_2a_ACTIVAR_-_Partir_de_lo_que_ya_sabes_(1).jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\Fase_2a_ACTIVAR_-_Partir_de_lo_que_ya_sabes_(1).jpg"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\Fase_2a_ACTIVAR_-_Partir_de_lo_que_ya_sabes_(1).jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="873d02fe1294964aa44cb2ca0794d59f"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2002,7 +2002,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276665"></int>
+                     <int value="276960"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2016,7 +2016,7 @@ text through the text editing buttons associated with the field."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="107_541_2.79"></unicode>
+                   <unicode value="107_541_2.93"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="35">
                     <dictionary>
@@ -2027,7 +2027,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="Fase_2a_ACTIVAR_-_Partir_de_lo_que_ya_sabes_(1).jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\Fase_2a_ACTIVAR_-_Partir_de_lo_que_ya_sabes_(1).jpg"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\Fase_2a_ACTIVAR_-_Partir_de_lo_que_ya_sabes_(1).jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="873d02fe1294964aa44cb2ca0794d59f"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2056,7 +2056,7 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="80"></int>
+              <int value="94"></int>
               <string role="key" value="parentNode"></string>
               <reference key="33"></reference>
              </dictionary>
@@ -2217,39 +2217,39 @@ text through the text editing buttons associated with the field."></unicode>
 &lt;h2&gt;2. Andamiaje educativo y zona de desarrollo próximo (ZDP)&lt;/h2&gt;
 &lt;p&gt;El concepto de &lt;strong&gt;zona de desarrollo próximo (ZDP)&lt;/strong&gt; fue propuesto por Lev Vygotsky para describir &lt;strong&gt;la distancia entre lo que un aprendiz puede hacer de forma autónoma y lo que puede lograr con ayuda de un mediador más experto&lt;/strong&gt; (profesor, compañero, herramienta). La ZDP es el espacio óptimo para el aprendizaje: ni tan fácil que aburra, ni tan difícil que frustre.&lt;/p&gt;
 &lt;p&gt;El &lt;strong&gt;andamiaje (scaffolding)&lt;/strong&gt;, concepto desarrollado por Jerome Bruner a partir de Vygotsky, consiste en proporcionar &lt;strong&gt;apoyos temporales y ajustados&lt;/strong&gt; que permiten al alumno realizar tareas que aún no domina autónomamente. Estos apoyos se retiran progresivamente conforme el alumno progresa y adquiere competencias y habilidades. El objetivo final del andamiaje es siempre la &lt;strong&gt;autonomía del aprendiz&lt;/strong&gt;.&lt;/p&gt;
-&lt;table border=&quot;1&quot; style=&quot;width: 100%; border-collapse: collapse; border: 1px solid #000000;&quot; cellpadding=&quot;5&quot;&gt;
+&lt;table border=&quot;1&quot; style=&quot;width: 100%; border-collapse: collapse; border: 1px solid #000000; height: 521px;&quot; cellpadding=&quot;5&quot;&gt;
 &lt;thead style=&quot;background-color: #f2f2f2;&quot;&gt;
-&lt;tr&gt;
-&lt;th style=&quot;border: 1px solid #000000; padding: 8px; text-align: center;&quot;&gt;Tipo de andamiaje&lt;/th&gt;
-&lt;th style=&quot;border: 1px solid #000000; padding: 8px; text-align: center;&quot;&gt;Función&lt;/th&gt;
-&lt;th style=&quot;border: 1px solid #000000; padding: 8px; text-align: center;&quot;&gt;Ejemplos concretos&lt;/th&gt;
+&lt;tr style=&quot;height: 63px;&quot;&gt;
+&lt;th style=&quot;border: 1px solid #000000; padding: 8px; text-align: center; width: 18.7793%; height: 63px;&quot;&gt;Tipo de andamiaje&lt;/th&gt;
+&lt;th style=&quot;border: 1px solid #000000; padding: 8px; text-align: center; width: 44.0141%; height: 63px;&quot;&gt;Función&lt;/th&gt;
+&lt;th style=&quot;border: 1px solid #000000; padding: 8px; text-align: center; width: 37.0892%; height: 63px;&quot;&gt;Ejemplos concretos&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&quot;border: 1px solid #000000; padding: 8px;&quot;&gt;&lt;b&gt;Bases de Orientación (BO)&lt;/b&gt;&lt;/td&gt;
-&lt;td style=&quot;border: 1px solid #000000; padding: 8px;&quot;&gt;Herramientas de anticipación y planificación que permiten al alumno representarse el proceso completo antes de ejecutarlo.&lt;/td&gt;
-&lt;td style=&quot;border: 1px solid #000000; padding: 8px;&quot;&gt;Infografías con las fases del proyecto, mapas conceptuales, diagramas de flujo del proceso.&lt;/td&gt;
+&lt;tr style=&quot;height: 87px;&quot;&gt;
+&lt;td style=&quot;border: 1px solid #000000; padding: 8px; width: 18.7793%; height: 87px;&quot;&gt;&lt;span style=&quot;background-color: #ffff00;&quot;&gt;&lt;b&gt;Bases de Orientación (BO)&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000; padding: 8px; width: 44.0141%; height: 87px;&quot;&gt;Herramientas de anticipación y planificación que permiten al alumno representarse el proceso completo antes de ejecutarlo.&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000; padding: 8px; width: 37.0892%; height: 87px;&quot;&gt;Infografías con las fases del proyecto, mapas conceptuales, diagramas de flujo del proceso.&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&quot;border: 1px solid #000000; padding: 8px;&quot;&gt;&lt;b&gt;Listas de cotejo (checklists)&lt;/b&gt;&lt;/td&gt;
-&lt;td style=&quot;border: 1px solid #000000; padding: 8px;&quot;&gt;Criterios de realización paso a paso que permiten la autorregulación procesual (verificación SÍ/NO).&lt;/td&gt;
-&lt;td style=&quot;border: 1px solid #000000; padding: 8px;&quot;&gt;“He incluido introducción con tesis explícita ☑”; “He citado al menos 3 fuentes ☑”.&lt;/td&gt;
+&lt;tr style=&quot;height: 87px;&quot;&gt;
+&lt;td style=&quot;border: 1px solid #000000; padding: 8px; width: 18.7793%; height: 87px;&quot;&gt;&lt;span style=&quot;background-color: #ffff00;&quot;&gt;&lt;b&gt;Listas de cotejo (checklists)&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000; padding: 8px; width: 44.0141%; height: 87px;&quot;&gt;Criterios de realización paso a paso que permiten la autorregulación procesual (verificación SÍ/NO).&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000; padding: 8px; width: 37.0892%; height: 87px;&quot;&gt;“He incluido introducción con tesis explícita ☑”; “He citado al menos 3 fuentes ☑”.&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&quot;border: 1px solid #000000; padding: 8px;&quot;&gt;&lt;b&gt;Modelos anotados (ejemplares)&lt;/b&gt;&lt;/td&gt;
-&lt;td style=&quot;border: 1px solid #000000; padding: 8px;&quot;&gt;Ejemplos deconstruidos para su análisis antes de la producción del alumno.&lt;/td&gt;
-&lt;td style=&quot;border: 1px solid #000000; padding: 8px;&quot;&gt;Ensayo modelo con anotaciones señalando estructura, conectores, integración de citas.&lt;/td&gt;
+&lt;tr style=&quot;height: 87px;&quot;&gt;
+&lt;td style=&quot;border: 1px solid #000000; padding: 8px; width: 18.7793%; height: 87px;&quot;&gt;&lt;span style=&quot;background-color: #ffff00;&quot;&gt;&lt;b&gt;Modelos anotados (ejemplares)&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000; padding: 8px; width: 44.0141%; height: 87px;&quot;&gt;Ejemplos deconstruidos para su análisis antes de la producción del alumno.&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000; padding: 8px; width: 37.0892%; height: 87px;&quot;&gt;Ensayo modelo con anotaciones señalando estructura, conectores, integración de citas.&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&quot;border: 1px solid #000000; padding: 8px;&quot;&gt;&lt;b&gt;Plantillas de planificación&lt;/b&gt;&lt;/td&gt;
-&lt;td style=&quot;border: 1px solid #000000; padding: 8px;&quot;&gt;Organizadores gráficos con campos estructurados que guían el diseño previo a la ejecución.&lt;/td&gt;
-&lt;td style=&quot;border: 1px solid #000000; padding: 8px;&quot;&gt;Tabla para planificar párrafos: “Idea principal | Evidencia 1 | Evidencia 2 | Cierre”.&lt;/td&gt;
+&lt;tr style=&quot;height: 87px;&quot;&gt;
+&lt;td style=&quot;border: 1px solid #000000; padding: 8px; width: 18.7793%; height: 87px;&quot;&gt;&lt;span style=&quot;background-color: #ffff00;&quot;&gt;&lt;b&gt;Plantillas de planificación&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000; padding: 8px; width: 44.0141%; height: 87px;&quot;&gt;Organizadores gráficos con campos estructurados que guían el diseño previo a la ejecución.&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000; padding: 8px; width: 37.0892%; height: 87px;&quot;&gt;Tabla para planificar párrafos: “Idea principal | Evidencia 1 | Evidencia 2 | Cierre”.&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&quot;border: 1px solid #000000; padding: 8px;&quot;&gt;&lt;b&gt;Guías de preguntas&lt;/b&gt;&lt;/td&gt;
-&lt;td style=&quot;border: 1px solid #000000; padding: 8px;&quot;&gt;Preguntas orientadoras que activan el pensamiento crítico y la metacognición.&lt;/td&gt;
-&lt;td style=&quot;border: 1px solid #000000; padding: 8px;&quot;&gt;“¿Qué evidencia apoya esta interpretación?”; “¿Qué contraargumento podría refutar mi tesis?”.&lt;/td&gt;
+&lt;tr style=&quot;height: 110px;&quot;&gt;
+&lt;td style=&quot;border: 1px solid #000000; padding: 8px; width: 18.7793%; height: 110px;&quot;&gt;&lt;span style=&quot;background-color: #ffff00;&quot;&gt;&lt;b&gt;Guías de preguntas&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000; padding: 8px; width: 44.0141%; height: 110px;&quot;&gt;Preguntas orientadoras que activan el pensamiento crítico y la metacognición.&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000; padding: 8px; width: 37.0892%; height: 110px;&quot;&gt;“¿Qué evidencia apoya esta interpretación?”; “¿Qué contraargumento podría refutar mi tesis?”.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -2268,12 +2268,12 @@ text through the text editing buttons associated with the field."></unicode>
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&quot;border: 1px solid #000000; padding: 8px;&quot;&gt;&lt;b&gt;CONOCIMIENTO METACOGNITIVO&lt;/b&gt;&lt;/td&gt;
-&lt;td style=&quot;border: 1px solid #000000; padding: 8px;&quot;&gt;Saber qué sabes y qué no sabes. Identificar fortalezas (“se me da bien resolver problemas matemáticos aplicados”) y debilidades (“me cuesta la expresión escrita formal”, “necesito mejorar mi capacidad de síntesis”).&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000; padding: 8px;&quot;&gt;&lt;span style=&quot;background-color: #ffff00;&quot;&gt;Saber qué sabes y qué no sabes&lt;/span&gt;. Identificar fortalezas (“se me da bien resolver problemas matemáticos aplicados”) y debilidades (“me cuesta la expresión escrita formal”, “necesito mejorar mi capacidad de síntesis”).&lt;/td&gt;
 &lt;td style=&quot;border: 1px solid #000000; padding: 8px;&quot;&gt;Al inicio de un proyecto, el alumno reflexiona: “Domino la búsqueda de información en internet, pero no sé cómo evaluar la fiabilidad de las fuentes. Necesito aprender criterios para eso”.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&quot;border: 1px solid #000000; padding: 8px;&quot;&gt;&lt;b&gt;REGULACIÓN METACOGNITIVA&lt;/b&gt;&lt;/td&gt;
-&lt;td style=&quot;border: 1px solid #000000; padding: 8px;&quot;&gt;Ser capaz de planificar, monitorizar y ajustar el propio aprendizaje. Por ejemplo: “Para este ensayo necesito primero buscar fuentes → luego hacer un esquema → después redactar → finalmente revisar. La última vez me salté el esquema y me costó más, así que esta vez lo haré”.&lt;/td&gt;
+&lt;td style=&quot;border: 1px solid #000000; padding: 8px;&quot;&gt;&lt;span style=&quot;background-color: #ffff00;&quot;&gt;Ser capaz de planificar, monitorizar y ajustar el propio aprendizaje.&lt;/span&gt; Por ejemplo: “Para este ensayo necesito primero buscar fuentes → luego hacer un esquema → después redactar → finalmente revisar. La última vez me salté el esquema y me costó más, así que esta vez lo haré”.&lt;/td&gt;
 &lt;td style=&quot;border: 1px solid #000000; padding: 8px;&quot;&gt;Durante la ejecución de una tarea, el alumno se pregunta: “¿Voy por buen camino? ¿Estoy cumpliendo los criterios? Si no, ¿qué debo ajustar ahora mismo?”. Y al finalizar: “¿Qué estrategia me ha funcionado mejor? ¿Qué haría diferente la próxima vez?”.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -2287,16 +2287,15 @@ text through the text editing buttons associated with the field."></unicode>
 &lt;h4&gt;Herramientas pedagógicas que facilitan la metacognición&lt;/h4&gt;
 &lt;p&gt;La reflexión metacognitiva no es algo abstracto que “sucede” espontáneamente. Tu alumnado ya la practica cuando:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Completa listas de cotejo finales&lt;/strong&gt; de actividades complejas, respondiendo a preguntas como “¿Qué dificultades he encontrado?”, “¿Qué estrategias he utilizado para superarlas?”, “¿Qué he aprendido con esta actividad?”. Ahí están reflexionando metacognitivamente.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Planifica en fases preparatorias&lt;/strong&gt; de proyectos: cuando analizan borradores identificando qué aspectos necesitan mejora, o cuando comparan su trabajo con modelos expertos para detectar diferencias, están tomando conciencia de su propio proceso.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Participa en revisión entre iguales&lt;/strong&gt;: al verificar el trabajo de un compañero y recibir feedback sobre el suyo, desarrollan criterios de calidad que luego aplican a sus propias producciones.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Completa fichas de autoevaluación&lt;/strong&gt; con criterios específicos: aplicar a su propio trabajo criterios de realización y calidad es ejercitar el conocimiento metacognitivo (“¿he cumplido los requisitos?”, “¿qué nivel de logro he alcanzado?”).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Diarios de aprendizaje.&lt;/strong&gt; El alumno registra qué ha aprendido, qué dificultades ha tenido, qué estrategias ha usado.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Portafolios reflexivos.&lt;/strong&gt; Compilación de trabajos con reflexiones metacognitivas sobre el proceso y la evolución.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Autoevaluaciones con criterios explícitos.&lt;/strong&gt; El alumno evalúa su propio trabajo usando los mismos criterios que usará el profesor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Completa &lt;span style=&quot;background-color: #ffff00;&quot;&gt;listas de cotejo finales&lt;/span&gt;&lt;/strong&gt; de actividades complejas, respondiendo a preguntas como “¿Qué dificultades he encontrado?”, “¿Qué estrategias he utilizado para superarlas?”, “¿Qué he aprendido con esta actividad?”. Ahí están reflexionando metacognitivamente.&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;background-color: #ffff00;&quot;&gt;&lt;strong&gt;Planifica en fases preparatorias&lt;/strong&gt;&lt;/span&gt; de proyectos: cuando analizan borradores identificando qué aspectos necesitan mejora, o cuando comparan su trabajo con modelos expertos para detectar diferencias, están tomando conciencia de su propio proceso.&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;background-color: #ffff00;&quot;&gt;&lt;strong&gt;Participa en revisión entre iguales&lt;/strong&gt;:&lt;/span&gt; al verificar el trabajo de un compañero y recibir feedback sobre el suyo, desarrollan criterios de calidad que luego aplican a sus propias producciones.&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;background-color: #ffff00;&quot;&gt;&lt;strong&gt;Completa fichas de autoevaluación&lt;/strong&gt;&lt;/span&gt; con criterios específicos: aplicar a su propio trabajo criterios de realización y calidad es ejercitar el conocimiento metacognitivo (“¿he cumplido los requisitos?”, “¿qué nivel de logro he alcanzado?”).&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;background-color: #ffff00;&quot;&gt;&lt;strong&gt;Diarios de aprendizaje.&lt;/strong&gt;&lt;/span&gt; El alumno registra qué ha aprendido, qué dificultades ha tenido, qué estrategias ha usado.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;span style=&quot;background-color: #ffff00;&quot;&gt;Portafolios reflexivos&lt;/span&gt;.&lt;/strong&gt; Compilación de trabajos con reflexiones metacognitivas sobre el proceso y la evolución.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Rutinas de pensamiento visible.&lt;/strong&gt; Protocolos estructurados como “Pienso-Pienso-Me pregunto” facilitan la autorregulación (Vid. Mini reto SdA 14).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Conexión con tu práctica docente.&lt;/strong&gt; Probablemente ya facilitas reflexión metacognitiva en tu aula de forma intuitiva. El diseño fundamentado implica &lt;strong&gt;planificar sistemáticamente momentos y herramientas metacognitivas.&lt;/strong&gt; La metacognición no surge espontáneamente; debe enseñarse y practicarse explícitamente. Cuando diseñes tu situación de aprendizaje, incluirás momentos específicos para la reflexión metacognitiva: al inicio (planificación), durante (monitorización) y al final (evaluación y transferencia).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conexión con tu práctica docente.&lt;/strong&gt; Probablemente ya facilitas reflexión metacognitiva en tu aula de forma intuitiva. El diseño fundamentado implica &lt;strong&gt;planificar sistemáticamente momentos y herramientas metacognitivas.&lt;/strong&gt; &lt;span style=&quot;background-color: #ffff00;&quot;&gt;La metacognición no surge espontáneamente&lt;/span&gt;; debe enseñarse y practicarse explícitamente. Cuando diseñes tu situación de aprendizaje, incluirás momentos específicos para la reflexión metacognitiva: al inicio (planificación), durante (monitorización) y al final (evaluación y transferencia).&lt;/p&gt;
 &lt;h2&gt;4. Evaluación formativa y formadora&lt;/h2&gt;
 &lt;p&gt;La &lt;strong&gt;evaluación formativa&lt;/strong&gt; es aquella cuyo propósito principal es &lt;strong&gt;proporcionar información durante el proceso de aprendizaje para ajustar la enseñanza&lt;/strong&gt;. El profesor recoge evidencias sobre qué está aprendiendo el alumnado, identifica dificultades y adapta su instrucción en consecuencia. El feedback es proporcionado por el docente y el alumno lo recibe pasivamente.&lt;/p&gt;
 &lt;p&gt;La &lt;a href=&quot;https://educaptic.wordpress.com/2023/03/05/evaluacion-formadora-y-formativa/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;evaluación formadora&lt;/strong&gt;&lt;/a&gt; va un paso más allá: &lt;strong&gt;el alumno se apropia de los criterios de evaluación y autorregula su propio aprendizaje&lt;/strong&gt;. No depende del feedback externo del profesor, sino que puede automonitorizarse, autoevaluarse y tomar decisiones de mejora de forma autónoma. Como afirma Sanmartí (2020, p. 16), “en la evaluación formativa es el profesorado quien le dice dónde se ha equivocado y qué ha de hacer para mejorar”; en la evaluación formadora, “el alumnado ha hecho suyo el proceso evaluativo”.&lt;/p&gt;
@@ -2386,7 +2385,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276669"></int>
+                     <int value="276964"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2400,7 +2399,7 @@ text through the text editing buttons associated with the field."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="113_541_2.120"></unicode>
+                   <unicode value="113_541_2.155"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="38">
                     <dictionary>
@@ -2411,7 +2410,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="gold_standard_design_0326.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\gold_standard_design_0326.png"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\gold_standard_design_0326.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="e9bad756196022ad93d739f930aaaa55"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2438,7 +2437,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276670"></int>
+                     <int value="276967"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2452,7 +2451,7 @@ text through the text editing buttons associated with the field."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="113_541_2.121"></unicode>
+                   <unicode value="113_541_2.156"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="39">
                     <dictionary>
@@ -2463,7 +2462,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="Infografia-Principios-de-la-Ensenanza-1.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\Infografia-Principios-de-la-Ensenanza-1.png"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\Infografia-Principios-de-la-Ensenanza-1.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="8e90081d239cc2af4e06cffa7fc6c5cc"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2490,7 +2489,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276671"></int>
+                     <int value="276968"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2504,7 +2503,7 @@ text through the text editing buttons associated with the field."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="113_541_2.122"></unicode>
+                   <unicode value="113_541_2.157"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="40">
                     <dictionary>
@@ -2515,7 +2514,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="Infografia-Principios-de-la-Ensenanza-1.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\Infografia-Principios-de-la-Ensenanza-1.png"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\Infografia-Principios-de-la-Ensenanza-1.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="8e90081d239cc2af4e06cffa7fc6c5cc"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2542,7 +2541,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276690"></int>
+                     <int value="276987"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2556,7 +2555,7 @@ text through the text editing buttons associated with the field."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="113_541_2.123"></unicode>
+                   <unicode value="113_541_2.158"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="41">
                     <dictionary>
@@ -2567,7 +2566,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="The_Top_10_Learning_Techniques_Infographic_-_e-Learning_Infographics.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\The_Top_10_Learning_Techniques_Infographic_-_e-Learning_Infographics.jpg"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\The_Top_10_Learning_Techniques_Infographic_-_e-Learning_Infographics.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="61d57891aa0402b10b8c8d99980e183e"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2594,7 +2593,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276691"></int>
+                     <int value="276988"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2608,7 +2607,7 @@ text through the text editing buttons associated with the field."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="113_541_2.124"></unicode>
+                   <unicode value="113_541_2.159"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="42">
                     <dictionary>
@@ -2619,7 +2618,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="The_Top_10_Learning_Techniques_Infographic_-_e-Learning_Infographics.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\The_Top_10_Learning_Techniques_Infographic_-_e-Learning_Infographics.jpg"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\The_Top_10_Learning_Techniques_Infographic_-_e-Learning_Infographics.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="61d57891aa0402b10b8c8d99980e183e"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2648,7 +2647,7 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="125"></int>
+              <int value="160"></int>
               <string role="key" value="parentNode"></string>
               <reference key="33"></reference>
              </dictionary>
@@ -3012,7 +3011,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276656"></int>
+                     <int value="276951"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3026,7 +3025,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="111_542_2.48"></unicode>
+                   <unicode value="111_542_2.62"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="45">
                     <dictionary>
@@ -3037,7 +3036,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="Actividad_1_fase_2.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\Actividad_1_fase_2.jpg"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\Actividad_1_fase_2.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="ad1d806b67a243f3c4e7b59d96cd4c3e"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3064,7 +3063,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276657"></int>
+                     <int value="276952"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3078,7 +3077,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="111_542_2.49"></unicode>
+                   <unicode value="111_542_2.63"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="46">
                     <dictionary>
@@ -3089,7 +3088,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="Actividad_1_fase_2.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\Actividad_1_fase_2.jpg"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\Actividad_1_fase_2.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="ad1d806b67a243f3c4e7b59d96cd4c3e"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3118,7 +3117,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="50"></int>
+              <int value="64"></int>
               <string role="key" value="parentNode"></string>
               <reference key="33"></reference>
              </dictionary>
@@ -3269,7 +3268,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276679"></int>
+                     <int value="276976"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3283,7 +3282,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="110_541_2.24"></unicode>
+                   <unicode value="110_541_2.31"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="49">
                     <dictionary>
@@ -3294,7 +3293,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="Practicas_docentes_(2).jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\Practicas_docentes_(2).jpg"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\Practicas_docentes_(2).jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="d34ab9c28f432e0fbd93e573485c3611"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3323,7 +3322,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="25"></int>
+              <int value="32"></int>
               <string role="key" value="parentNode"></string>
               <reference key="33"></reference>
              </dictionary>
@@ -3454,7 +3453,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276661"></int>
+                     <int value="276956"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3468,7 +3467,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="114_542_2.21"></unicode>
+                   <unicode value="114_542_2.28"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="52">
                     <dictionary>
@@ -3479,7 +3478,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="Cuestionario_QuExt_fase_2.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\Cuestionario_QuExt_fase_2.jpg"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\Cuestionario_QuExt_fase_2.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="f887bc5328b00478d4cde26b45c35242"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3508,7 +3507,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="22"></int>
+              <int value="29"></int>
               <string role="key" value="parentNode"></string>
               <reference key="33"></reference>
              </dictionary>
@@ -3846,7 +3845,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276666"></int>
+                     <int value="276961"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3860,7 +3859,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="116_542_2.20"></unicode>
+                   <unicode value="116_542_2.27"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="58">
                     <dictionary>
@@ -3871,7 +3870,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="Fase_3.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\Fase_3.jpg"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\Fase_3.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="a31aabc38b7ced66cc365dec79324ac4"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3900,7 +3899,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="21"></int>
+              <int value="28"></int>
               <string role="key" value="parentNode"></string>
               <reference key="57"></reference>
              </dictionary>
@@ -4415,7 +4414,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276658"></int>
+                     <int value="276953"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -4429,7 +4428,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="115_541_2.126"></unicode>
+                   <unicode value="115_541_2.175"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="61">
                     <dictionary>
@@ -4440,7 +4439,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="Analisis_de_modelos_expertos.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\Analisis_de_modelos_expertos.png"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\Analisis_de_modelos_expertos.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="06604598fd9acfcd6142ab16a0e82e93"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4467,7 +4466,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276680"></int>
+                     <int value="276977"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -4481,7 +4480,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="115_541_2.127"></unicode>
+                   <unicode value="115_541_2.176"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="62">
                     <dictionary>
@@ -4492,7 +4491,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="SdA13_Minirreto_compressed.pdf"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\SdA13_Minirreto_compressed.pdf"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\SdA13_Minirreto_compressed.pdf"></string>
                      <string role="key" value="checksum"></string>
                      <string value="d7251f4c08639fb01b67ad04e6ef7a1a"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4519,7 +4518,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276681"></int>
+                     <int value="276978"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -4533,7 +4532,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="115_541_2.128"></unicode>
+                   <unicode value="115_541_2.177"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="63">
                     <dictionary>
@@ -4544,7 +4543,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="SdA14_Incorpora_otras_voces_compressed.pdf"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\SdA14_Incorpora_otras_voces_compressed.pdf"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\SdA14_Incorpora_otras_voces_compressed.pdf"></string>
                      <string role="key" value="checksum"></string>
                      <string value="8fac8c57414f6ef9028726bc67353572"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4571,7 +4570,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276682"></int>
+                     <int value="276979"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -4585,7 +4584,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="115_541_2.129"></unicode>
+                   <unicode value="115_541_2.178"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="64">
                     <dictionary>
@@ -4596,7 +4595,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="SdA14_minirreto_compressed.pdf"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\SdA14_minirreto_compressed.pdf"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\SdA14_minirreto_compressed.pdf"></string>
                      <string role="key" value="checksum"></string>
                      <string value="9821b446bb05576110cecc7cb51cb76f"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4623,7 +4622,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276683"></int>
+                     <int value="276980"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -4637,7 +4636,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="115_541_2.130"></unicode>
+                   <unicode value="115_541_2.179"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="65">
                     <dictionary>
@@ -4648,7 +4647,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="SdA6_Ejemplo_de_texto_expositivo_compressed.pdf"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\SdA6_Ejemplo_de_texto_expositivo_compressed.pdf"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\SdA6_Ejemplo_de_texto_expositivo_compressed.pdf"></string>
                      <string role="key" value="checksum"></string>
                      <string value="1e63b471f9435be869497e2384973a00"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4675,7 +4674,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276684"></int>
+                     <int value="276981"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -4689,7 +4688,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="115_541_2.131"></unicode>
+                   <unicode value="115_541_2.180"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="66">
                     <dictionary>
@@ -4700,7 +4699,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="SdA6_Escribimos_y_ensayamos_la_introduccion_del_debate_compressed.pdf"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\SdA6_Escribimos_y_ensayamos_la_introduccion_del_debate_compressed.pdf"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\SdA6_Escribimos_y_ensayamos_la_introduccion_del_debate_compressed.pdf"></string>
                      <string role="key" value="checksum"></string>
                      <string value="476e1715c4a3ffbe5a506d80e8d4f7a3"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4727,7 +4726,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276685"></int>
+                     <int value="276982"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -4741,7 +4740,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="115_541_2.132"></unicode>
+                   <unicode value="115_541_2.181"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="67">
                     <dictionary>
@@ -4752,7 +4751,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="SdA6_Ponemos_voz_a_la_informacion_compressed.pdf"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\SdA6_Ponemos_voz_a_la_informacion_compressed.pdf"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\SdA6_Ponemos_voz_a_la_informacion_compressed.pdf"></string>
                      <string role="key" value="checksum"></string>
                      <string value="52d2f1eaf1248b324fbeb716dda0dd00"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4781,7 +4780,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="133"></int>
+              <int value="182"></int>
               <string role="key" value="parentNode"></string>
               <reference key="57"></reference>
              </dictionary>
@@ -5359,7 +5358,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276675"></int>
+                     <int value="276972"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5373,7 +5372,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="118_541_2.45"></unicode>
+                   <unicode value="118_541_2.66"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="70">
                     <dictionary>
@@ -5384,7 +5383,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="miaev2-comp.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\miaev2-comp.png"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\miaev2-comp.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="0b79eaa3a79af89ba68229d778037ccb"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5411,7 +5410,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276676"></int>
+                     <int value="276973"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5425,7 +5424,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="118_541_2.46"></unicode>
+                   <unicode value="118_541_2.67"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="71">
                     <dictionary>
@@ -5436,7 +5435,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="miaev2-comp.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\miaev2-comp.png"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\miaev2-comp.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="0b79eaa3a79af89ba68229d778037ccb"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5463,7 +5462,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276688"></int>
+                     <int value="276985"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5477,7 +5476,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="118_541_2.47"></unicode>
+                   <unicode value="118_541_2.68"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="72">
                     <dictionary>
@@ -5488,7 +5487,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="Taller_practico_con_IA_3_2.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\Taller_practico_con_IA_3_2.png"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\Taller_practico_con_IA_3_2.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="61714c048a16e4f4a96ddbe553197eca"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5517,7 +5516,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="48"></int>
+              <int value="69"></int>
               <string role="key" value="parentNode"></string>
               <reference key="57"></reference>
              </dictionary>
@@ -6310,7 +6309,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276678"></int>
+                     <int value="276975"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -6324,7 +6323,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="120_543_2.27"></unicode>
+                   <unicode value="120_543_2.41"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="76">
                     <dictionary>
@@ -6335,7 +6334,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="PAIRR_Model_Any_tool.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\PAIRR_Model_Any_tool.png"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\PAIRR_Model_Any_tool.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="d557bfde500f5d1e1ff7a1ba74fbf82b"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6362,7 +6361,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276687"></int>
+                     <int value="276984"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -6376,7 +6375,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="120_543_2.28"></unicode>
+                   <unicode value="120_543_2.42"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="77">
                     <dictionary>
@@ -6387,7 +6386,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="Taller_Fase_4.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\Taller_Fase_4.png"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\Taller_Fase_4.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="05945b1020b92b1132da7d386793397a"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6416,7 +6415,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="29"></int>
+              <int value="43"></int>
               <string role="key" value="parentNode"></string>
               <reference key="75"></reference>
              </dictionary>
@@ -7057,7 +7056,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276668"></int>
+                     <int value="276963"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -7071,7 +7070,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="122_541_2.12"></unicode>
+                   <unicode value="122_541_2.19"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="81">
                     <dictionary>
@@ -7082,7 +7081,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="Gemini_Generated_Tarea_5.1_comp.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\Gemini_Generated_Tarea_5.1_comp.png"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\Gemini_Generated_Tarea_5.1_comp.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="7439c17c9ded1eb14170fcd54a56db98"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7111,7 +7110,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="13"></int>
+              <int value="20"></int>
               <string role="key" value="parentNode"></string>
               <reference key="80"></reference>
              </dictionary>
@@ -7746,7 +7745,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276667"></int>
+                     <int value="276962"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -7760,7 +7759,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="123_542_2.10"></unicode>
+                   <unicode value="123_542_2.17"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="84">
                     <dictionary>
@@ -7771,7 +7770,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="Gemini_Generated_infografia_5.2_comp.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\Gemini_Generated_infografia_5.2_comp.png"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\Gemini_Generated_infografia_5.2_comp.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="665afc18858548139003dcd35ce5815e"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7800,7 +7799,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="11"></int>
+              <int value="18"></int>
               <string role="key" value="parentNode"></string>
               <reference key="80"></reference>
              </dictionary>
@@ -8482,8 +8481,8 @@ that may help or hinder the learner in the performance of the task."></unicode>
 &lt;div style=&quot;background-color: #fffef0; border-left: 5px solid #ffcc00; padding: 15px; margin: 20px 0;&quot;&gt;
 &lt;p style=&quot;margin: 0 0 10px 0; font-weight: bold; font-size: 15px;&quot;&gt;🔗 RECURSOS DE CONTINUIDAD&lt;/p&gt;
 &lt;ul style=&quot;margin: 5px 0 0 20px; font-size: 14px;&quot;&gt;
-&lt;li&gt;&lt;strong&gt;Modelos analizados&lt;/strong&gt;:&amp;nbsp;Consulta las URL de diferentes actividades y situaciones de aprendizaje completas que puedes localizar en la sección &lt;em&gt;&lt;strong&gt;3.1. Análisis de modelos&lt;/strong&gt; &lt;/em&gt;de este REA.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Colección de prompts para IA en diseño didáctico&lt;/strong&gt;: los prompts usados en estas sesiones + prompts adicionales para adaptar textos al nivel de Secundaria, crear cuestionarios para Moodle, generar actividades para adolescentes...&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Modelos analizados.&lt;/strong&gt; Consulta las URL de diferentes actividades y situaciones de aprendizaje completas que puedes localizar en la sección &lt;em&gt;&lt;strong&gt;3.1. Análisis de modelos&lt;/strong&gt; &lt;/em&gt;de este REA.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Colección de prompts para IA en diseño didáctico.&lt;/strong&gt;&amp;nbsp;Los prompts usados en estas sesiones + prompts adicionales para adaptar textos al nivel de Secundaria, crear cuestionarios para Moodle, generar actividades para adolescentes...&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Bibliografía recomendada&lt;/strong&gt;:
 &lt;ul&gt;
 &lt;li&gt;Sanmartí, N. (2020). &lt;em&gt;Evaluar y aprender: un único proceso&lt;/em&gt;. Octaedro.&lt;/li&gt;
@@ -8695,7 +8694,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="276659"></int>
+                     <int value="276954"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -8709,7 +8708,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="108_541_2.29"></unicode>
+                   <unicode value="108_541_2.36"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="93">
                     <dictionary>
@@ -8720,7 +8719,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="by-nc-sa.svg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpi_rpbf\\by-nc-sa.svg"></string>
+                     <string value="c:\\users\\yo\\appdata\\local\\temp\\tmpvpfu1i\\by-nc-sa.svg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="65fdf4046150f9c7cf9b02113540e54e"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8749,7 +8748,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="30"></int>
+              <int value="37"></int>
               <string role="key" value="parentNode"></string>
               <reference key="92"></reference>
              </dictionary>
@@ -8831,7 +8830,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="87"></reference>
+  <reference key="9"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -10867,7 +10866,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
    </list>
    <string role="key" value="4a58319d8152dba342b92ec6deb9f551"></string>
    <list>
-    <reference key="13"></reference>
+    <reference key="16"></reference>
    </list>
    <string role="key" value="52d2f1eaf1248b324fbeb716dda0dd00"></string>
    <list>
@@ -10919,7 +10918,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
    </list>
    <string role="key" value="94a4bdd894e1a8306e50f4b858684ad4"></string>
    <list>
-    <reference key="14"></reference>
+    <reference key="15"></reference>
    </list>
    <string role="key" value="9821b446bb05576110cecc7cb51cb76f"></string>
    <list>
@@ -10961,8 +10960,8 @@ that may help or hinder the learner in the performance of the task."></unicode>
    </list>
    <string role="key" value="e1118c6b8d7abd3dfe6f7c0250558217"></string>
    <list>
-    <reference key="15"></reference>
-    <reference key="16"></reference>
+    <reference key="13"></reference>
+    <reference key="14"></reference>
    </list>
    <string role="key" value="e9bad756196022ad93d739f930aaaa55"></string>
    <list>
